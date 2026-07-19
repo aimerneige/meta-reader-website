@@ -1,6 +1,6 @@
 # 📷 Meta Reader
 
-🚀 **Fully Driven By Gemini**
+🚀 **Fully Built by Gemini**
 
 A modern, fast, and **100% private** client-side image metadata (EXIF, IPTC, XMP) parser and visual dashboard. Built with React 19, Material-UI (MUI), and Vite.
 
@@ -9,7 +9,7 @@ A modern, fast, and **100% private** client-side image metadata (EXIF, IPTC, XMP
 [![MUI](https://img.shields.io/badge/MUI-9.2-007FFF?logo=mui&logoColor=white)](https://mui.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25_Client--side-success?logo=dynamic&logoColor=white)](#-privacy-first)
-[![Driven by Gemini](https://img.shields.io/badge/Driven_by-Gemini-orange?logo=googlegemini&logoColor=white)](#)
+[![Built by Gemini](https://img.shields.io/badge/Built_by-Gemini-orange?logo=googlegemini&logoColor=white)](#)
 
 ---
 
