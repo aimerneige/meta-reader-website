@@ -184,7 +184,9 @@ function App() {
                       theme.palette.text.primary,
                       0.7
                     )} 100%)`,
+                    backgroundClip: 'text',
                     WebkitBackgroundClip: 'text',
+                    color: 'transparent',
                     WebkitTextFillColor: 'transparent',
                   }}
                 >
@@ -251,15 +253,19 @@ function App() {
                   }}
                 >
                   Read your photo's{' '}
-                  <span
-                    style={{
+                  <Box
+                    component="span"
+                    sx={{
                       background: `linear-gradient(135deg, ${theme.palette.primary.main}, ${theme.palette.secondary.main})`,
+                      backgroundClip: 'text',
                       WebkitBackgroundClip: 'text',
+                      color: 'transparent',
                       WebkitTextFillColor: 'transparent',
+                      display: 'inline-block',
                     }}
                   >
                     EXIF metadata
-                  </span>{' '}
+                  </Box>{' '}
                   instantly.
                 </Typography>
                 <Typography variant="body1" color="text.secondary" sx={{ maxW: 480, mx: 'auto' }}>
